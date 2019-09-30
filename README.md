@@ -4,6 +4,7 @@
  - http://localhost:3000/
 
 **Utilizado:**  
+ - [PostgreSQL v11.5](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads) 
  - [node-postgres](https://node-postgres.com/)
 
 **Rotas:**
