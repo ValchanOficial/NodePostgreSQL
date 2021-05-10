@@ -12,7 +12,7 @@
     "pg": "^7.12.1"
   },
   "devDependencies": {
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "nodemon": "^1.19.3"
   }
 }
